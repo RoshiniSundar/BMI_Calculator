@@ -1,0 +1,57 @@
+C:\Users\Roshini\source\repos\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Roshini\source\repos\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Roshini\source\repos\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\App.g.cs
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.cache
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.lref
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\MainWindow.baml
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.g.resources
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\App.baml
+C:\Users\Roshini\source\repos\BMI Calculator\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Roshini\source\repos\BMI Calculator\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Roshini\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.CopyComplete
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\App.g.cs
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.cache
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.lref
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\App.baml
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\MainWindow.baml
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.g.resources
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.CopyComplete
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Roshini\Desktop\C#\c# assignments\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\App.g.cs
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.cache
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator_MarkupCompile.lref
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\App.baml
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\MainWindow.baml
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.g.resources
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.csproj.CopyComplete
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Roshini\Desktop\CAD\CAD LEVEL 1\C#\My Group Assignments\BMI Calculator\obj\Debug\BMI Calculator.pdb
